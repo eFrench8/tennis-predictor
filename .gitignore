@@ -194,7 +194,7 @@ cython_debug/
 .cursorindexingignore
 
 # Data files
-data/*.csv
+*.csv
 
 __pycache__/
 *.pyc
