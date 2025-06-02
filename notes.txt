@@ -1,0 +1,6 @@
+need to get a dataset with stuff about the player
+name, age, height, wins, preffered court (hard, grass, clay), what hand they play with
+ive found this dataset: https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull/data
+
+was gonna do a random forest model but realised it was to basic for how much detail i wanted to use
+so were gonna use pytorch and create a neural network
